@@ -12,17 +12,17 @@ Escrito na branch nova-branch
 
 # módulo: Fundamentos
 
-seções
+## Seções
 
-1-unix-shell-e-git
+### Seção-1-unix-shell-e-git
 
-dia-01-unix-&-shell
+[]()dia-01-unix-&-shell
+[]()dia-02-git-o-que-é-e-para-que-serve
+[]()dia-03-git-&-github-entendendo-os-comandos
 
-dia-02-git-o-que-é-e-para-que-serve
 
-dia-03-git-&-github-entendendo-os-comandos
+### Seção-2-introdução-à-html-&-css00-de-05
 
-_2-introdução-à-html-&-css00-de-05
 _dia-01-html-&-css-estruturas-de-página
 _12-lições
 _dia-02-html-&-css-primeiros-passos-em-css
