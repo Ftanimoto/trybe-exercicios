@@ -16,9 +16,9 @@ Escrito na branch nova-branch
 
 ### Seção-1-unix-shell-e-git
 
-[]() dia-01-unix-&-shell
-[]() dia-02-git-o-que-é-e-para-que-serve
-[]() dia-03-git-&-github-entendendo-os-comandos
+[dia-01](unix-&-shell) 
+[dia-02](git-o-que-é-e-para-que-serve) 
+[dia-03](git-&-github-entendendo-os-comandos) 
 
 
 ### Seção-2-introdução-à-html-&-css00-de-05
