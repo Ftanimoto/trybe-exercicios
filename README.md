@@ -8,20 +8,20 @@ Escrito na branch main do repositório trybe-exercicios
 
 Escrito na branch nova-branch
 
-_
-_
-_módulo-1-–-nome-dos-dias
-_
-_seções
-_
-_
-_1-unix-shell-e-git
-_dia-01-unix-&-shell
-_15-lições
-_dia-02-git-o-que-é-e-para-que-serve
-_10-lições
-_dia-03-git-&-github-entendendo-os-comandos
-_8-lições
+
+
+# módulo: Fundamentos
+
+seções
+
+1-unix-shell-e-git
+
+dia-01-unix-&-shell
+
+dia-02-git-o-que-é-e-para-que-serve
+
+dia-03-git-&-github-entendendo-os-comandos
+
 _2-introdução-à-html-&-css00-de-05
 _dia-01-html-&-css-estruturas-de-página
 _12-lições
@@ -169,7 +169,9 @@ _1-lição
 _10-projeto-app-de-receitas00-de-01
 _dia-01-projeto--app-de-receitas
 _1-lição
-_
+
+# Módulo: Back-end
+
 _Seções
 _1-Docker-Utilizando-Containers00-de-04
 _Dia-01-Utilizando-Containers--Docker
@@ -284,7 +286,9 @@ _1-lição
 _13-Projeto--App-de-Delivery00-de-01
 _Dia-01-Projeto--App-de-Delivery
 _1-lição
-_
+
+# Módulo: Ciência da Computação
+
 __seções
 __
 __dia-01-aprendendo-python
