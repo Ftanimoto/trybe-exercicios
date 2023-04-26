@@ -1,13 +1,5 @@
-# trybe-exercicios
-Repositório para os exercícios e projetos da trbe
 # Meu repositório de exercícios 
-
-
-Escrito na branch main do repositório trybe-exercicios
-
-
-Escrito na branch nova-branch
-
+Repositório para os exercícios e projetos da trybe
 
 
 # módulo: Fundamentos
