@@ -1,0 +1,59 @@
+
+h1, h2, h3 {
+    color: red;
+}
+
+h1 em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+ol li {
+    background-color: yellow;
+}
+
+li em {
+    font-weight: bold;
+}
+
+li {
+    font-size: 20px;
+}
+
+ol li:nth-child(even){
+	color: #588157;
+}
+
+/* Ímpar */
+ol li:nth-child(odd){
+	text-transform: uppercase;
+}
+    
+.linguagens li:nth-child(-n+3) {
+    color: blue;
+} 
+
+a:hover {
+    font-weight: bolder;
+}
+
+#a1:hover {
+    color: orange; 
+   
+} 
+
+#a2:hover {
+    color: green;
+}
+
+#a3:hover {
+    color: black;
+}
+
+#a4:hover {
+    color: yellow;
+}
+
+#a5:hover {
+    color: green;
+}
