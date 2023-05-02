@@ -18,4 +18,4 @@ console.log(mult);
 //Divisão
 
 let div = num1 / num2;
-
+console.log(div);
