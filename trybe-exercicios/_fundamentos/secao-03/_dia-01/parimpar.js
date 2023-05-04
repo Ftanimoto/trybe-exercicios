@@ -14,4 +14,6 @@ if (number % 2 == 0) {
 }
 
 console.log(2 == 2);
+console.log(2 == '2'); // true pq ve apenas a equivalencia de valores mas não de tipos de dados (ex: ser string ou ser number, muito embora os valores sejam os mesmos)
+
 
